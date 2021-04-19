@@ -39,15 +39,6 @@
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
