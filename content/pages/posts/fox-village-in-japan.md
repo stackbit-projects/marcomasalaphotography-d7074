@@ -9,7 +9,7 @@ excerpt: >-
 date: '2020-01-11'
 thumb_img_path: images/_MM05433.jpg
 thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
+content_img_path: images/34-Universo-Ferrari-2019.jpg
 seo:
   title: Fox Village In Japan
   description: >-
