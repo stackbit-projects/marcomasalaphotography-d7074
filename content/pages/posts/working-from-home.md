@@ -37,4 +37,16 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  Novant’anni di Scuderia Ferrari e non solo, racchiusi all’interno di una
+  mostra unica, capace di far strabuzzare gli occhi agli appassionati. A
+  settembre sarà, infatti, possibile avere accesso a “Universo Ferrari”, la
+  prima esposizione dedicata al passato e al presente del Cavallino rampante e
+  che la Casa accoglie all’interno della propria sede, a Maranello.  Per
+  l’occasione, “Universo Ferrari” è stato allestito in una struttura che si
+  trova a bordo pista, quella di Fiorano, fatta costruire da Enzo Ferrari nel
+  1972 per mettere alla prova le sue creature. All’interno, la storia della casa
+  verrà messa in mostra seguendo un percorso di più sale che ripercorrono i
+  “punti salienti” e i successi che hanno costellato la storia del marchio
+  modenese.
 ---
