@@ -5,5 +5,15 @@
     "footer": {
         "content": "&copy; marcomasala.photography. All rights reserved. "
     },
-    "domain": "https://marcomasalaphotography-d7074.netlify.app"
+    "domain": "https://marcomasalaphotography-d7074.netlify.app",
+    "header": {
+        "title": "lorem-ipsum",
+        "tagline": "lorem-ipsum",
+        "logo_img_alt": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "type": "header"
+    }
 }
