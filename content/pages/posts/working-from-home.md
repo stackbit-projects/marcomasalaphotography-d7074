@@ -1,8 +1,5 @@
 ---
 title: Show Room - Universo Ferrari
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes re
 date: '2016-08-22'
 thumb_img_path: images/Ferrari-5.jpg
 thumb_img_alt: Home office setup
