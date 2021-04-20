@@ -2,59 +2,6 @@
     "title": "marcomasala.photography",
     "path_prefix": "/",
     "palette": "yellow",
-    "header": {
-        "title": "marcomasala.photography",
-        "tagline": "marcomasala.photography",
-        "logo_img": "images/Marco Masala.png",
-        "logo_img_alt": "marcomasala.photography",
-        "background_img": "images/Ferrari-61.jpg",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Universo Ferrari",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
-            }
-        ],
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "url": "https://www.facebook.com/ocramalasam",
-                "style": "icon",
-                "icon_class": "facebook",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action",
-                "label": "Facebook"
-            }
-        ]
-    },
     "footer": {
         "content": "&copy; marcomasala.photography. All rights reserved. "
     },
