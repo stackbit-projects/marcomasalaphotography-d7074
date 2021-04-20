@@ -1,6 +1,5 @@
 ---
 title: Universo Ferrari
-date: '2018-01-09'
 thumb_img_path: images/34-Universo-Ferrari-2019.jpg
 thumb_img_alt: Icelandic horses
 hide_header: true
